@@ -1,4 +1,4 @@
-# Python-Projects
+# Player.py
 
 Explaination:
 - The player.py program is a simple media player CLI based on python3.
